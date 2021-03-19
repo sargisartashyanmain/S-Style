@@ -21,7 +21,7 @@ it should look like this
 <div data-s="s-mt/mb/ml/mr-any number-px"></div>
 ```
 
->```css 
+>```scss 
 div {
       margin-top:  28; /*data-s="s-mt-28-px"*/
       margin-bottom:  28; /*data-s="s-mb-28-px"*/
