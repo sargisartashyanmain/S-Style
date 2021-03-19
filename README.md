@@ -20,8 +20,9 @@ it should look like this
 >```html
 <div data-s="s-mt/mb/ml/mr-any number-px"></div>
 ```
+***
 
->```scss 
+```css 
 div {
       margin-top:  28; /*data-s="s-mt-28-px"*/
       margin-bottom:  28; /*data-s="s-mb-28-px"*/
