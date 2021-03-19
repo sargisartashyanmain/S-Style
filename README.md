@@ -1,10 +1,12 @@
 # S-Style framework
 
 ## Introduction
+
 > **S-Style** This is a small css library that saves you from writing large lines of code and saves you time.
 
 
 ## Code Samples
+
 > To start working with the library you need to add an attribute `data-s=""` to the element  `div`.
 ***
 it should look like this
@@ -28,7 +30,10 @@ div {
 }
 ```
 
+
+
 ## Installation
+
 > First you need to download all the files from[ this link](https://github.com/sargisartashyanmain/S-Style)
 ***
 >***After downloading and connecting all the files, it should look like this***
