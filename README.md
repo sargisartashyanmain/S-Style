@@ -17,11 +17,10 @@ it should look like this
 ***Complete code example***
 
 >By adding the `"s-mt/mb/ml/mr-any number-px"` value to the attribute, the element will be styled:
->```html
+
+```html
 <div data-s="s-mt/mb/ml/mr-any number-px"></div>
 ```
-***
-
 ```css 
 div {
       margin-top:  28; /*data-s="s-mt-28-px"*/
