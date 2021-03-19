@@ -23,10 +23,10 @@ it should look like this
 ```
 ```css 
 div {
-      margin-top:  28; /*data-s="s-mt-28-px"*/
-      margin-bottom:  28; /*data-s="s-mb-28-px"*/
-      margin-left:  28; /*data-s="s-ml-28-px"*/
-      margin-right:  28; /*data-s="s-mr-28-px"*/
+      margin-top:  28px; /*data-s="s-mt-28-px"*/
+      margin-bottom:  28px; /*data-s="s-mb-28-px"*/
+      margin-left:  28px; /*data-s="s-ml-28-px"*/
+      margin-right:  28px; /*data-s="s-mr-28-px"*/
 }
 ```
 
