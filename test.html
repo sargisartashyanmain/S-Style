@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="s-frame-css.css" class="css">
+    <style>
+        .wrapper {
+            width: 100%;
+            height: 200px;
+            padding: 5px 25px;
+            box-sizing: border-box;
+            background-color: rgb(0, 17, 255);
+        }
+
+        .block {
+            width: 50px;
+            height: 50px;
+            margin: 5px;
+            background-color: #fff;
+        }
+    </style>
+    <title>Test</title>
+</head>
+
+<body>
+    <div data-s="s-flex-row s-flex-jc-sb s-flex-ai-c s-pl-100-px" class="wrapper">
+        <div class="block"></div>
+        <div data-s="s-mb-150-px" class="block"></div>
+        <div data-s="s-flex-jc-c s-flex-ai-c s-fz-10-px" class="block">lorem</div>
+    </div>
+
+    <script src="s-frame-js.js"></script>
+</body>
+
+</html>
